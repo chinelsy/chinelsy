@@ -3,7 +3,7 @@
 
 - 👨‍💻You can see more of my works here [https://github.com/ChineseChikki](https://github.com/ChineseChikki)
 
-- 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, ASP.NET**
+- 💬 Ask me about **C#, ASP.NET, Reactjs, Nodejs, Expressjs, Mongodb**
 
 - 📫 How to reach me **chinelsy@yahoo.co.uk**
 
